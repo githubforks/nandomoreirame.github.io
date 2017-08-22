@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fernando Moreira</title>
+  <subtitle>Front-end developer</subtitle>
+  <id>http://nandomoreira.me/</id>
+  <link href="http://nandomoreira.me/"/>
+  <link href="http://nandomoreira.me/feed.xml" rel="self"/>
+  <updated>2017-01-01T13:36:00+00:00</updated>
+  <author>
+    <name>Fernando Moreira</name>
+  </author>
+  <entry>
+    <title>&amp;lt;/2016&amp;gt; &amp;lt;2017&amp;gt;</title>
+    <link rel="alternate" href="http://nandomoreira.me/retro-2016-planing-2017/"/>
+    <id>http://nandomoreira.me/retro-2016-planing-2017/</id>
+    <published>2017-01-01T13:36:00+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;h2&gt;Retro 2016&lt;/h2&gt;
+
+&lt;p&gt;2016 não foi um ano ruim, tanto na minha vida profissional quando na minha vida pessoal, confesso que tive alguns obstáculos, mas todos foram ultrapassados com sucesso.&lt;/p&gt;
+
+&lt;p&gt;Ele pode ter sido um ano ruim para Brasil e para mundo, grandes desastres, fiasco da política, morte de grandes artistas, mas eu pessoalmente tenho que agradecer muito por minha vida ser maravilhosa como ela é, ter um trabalho que eu gosto muito, uma família maravilhosa, amigos próximos e pessoas próximas que me querem bem.&lt;/p&gt;
+
+&lt;h3&gt;Aprendizado&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;$(&amp;#39;2016&amp;#39;).remove();&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Esse ano foi um ano de aprendizado, tanto para minha vida profissional quanto para vida pessoal.&lt;/p&gt;
+
+&lt;p&gt;Aprendi a questionar mais, entender o que as pessoas ao meu redor estão fazendo e o que eu estou fazendo para ajudar essas pessoas.&lt;/p&gt;
+
+&lt;p&gt;Aprendi que eu não sei o suficiente e que tenho que aprender muita coisa ainda pela frente, e isso me custou um emprego e um circulo de boas amizades.&lt;/p&gt;
+
+&lt;p&gt;Aprendi que amigos verdadeiros são os que estão com você não só nas alegrias, mas nas tristezas e fases ruins da sua vida.&lt;/p&gt;
+
+&lt;p&gt;Aprendi a questionar padrões.&lt;/p&gt;
+
+&lt;p&gt;Aprendi que oportunidades não vem do nada, você que corre atrás e traz elas para perto de você.&lt;/p&gt;
+
+&lt;p&gt;Aprendi que ouvir mais e falar menos não é tão fácil assim.&lt;/p&gt;
+
+&lt;p&gt;Aprendi que ser uma pessoa bondosa e empática também não é fácil.&lt;/p&gt;
+
+&lt;p&gt;Aprendi a meditar, mesmo com a falta de tempo.&lt;/p&gt;
+
+&lt;p&gt;Aprendi a ler (sim, aprendi a ler de verdade), muitos livros técnicos e não técnicos, muitos blogs e artigos, notícias, medium, etc.&lt;/p&gt;
+
+&lt;p&gt;Aprendi a olhar a vida de um ponto de vista diferente, em que o foco no estado atual (presente) é mais valioso que o foco no passado e/ou no futuro.&lt;/p&gt;
+
+&lt;p&gt;Aprendi que o impossível é apenas uma questão de opinião, você consegue fazer qualquer coisa enquanto respirar.&lt;/p&gt;
+
+&lt;h3&gt;Trabalho duro&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Ano de 2016 foi um ano de trabalho duro e tenho certeza que 2017 será ainda melhor.&lt;/p&gt;
+
+&lt;p&gt;Eu consegui ser notado por algumas empresas legais como a &lt;strong&gt;&lt;a href="http://www.pipefy.com/"&gt;Pipefy&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href="http://hero99.com.br/"&gt;Hero99&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href="https://www.ebanx.com/br"&gt;EBANX&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href="https://pagar.me/"&gt;pagar.me&lt;/a&gt;&lt;/strong&gt; e &lt;strong&gt;&lt;a href="http://wipro.com"&gt;wipro.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tudo através do que fiz pela comunidade (foi pouco mas fiz), criando temas para &lt;a href="http://jekyllrb.com"&gt;Jekyll&lt;/a&gt;, ajudando em discussões de front-end, enviando contribuições em alguns repositórios no &lt;a href="https://github.com/nandomoreirame"&gt;github&lt;/a&gt; e compartilhando meu conhecimento como tutor no &lt;a href="https://github.com/training-center"&gt;Centro de Treinamento&lt;/a&gt; e escrevendo nesse pequeno &lt;a href="/blog"&gt;blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Eu tive a oportunidade de trabalhar em uma startup chamada &lt;strong&gt;&lt;a href="http://www.pipefy.com/"&gt;Pipefy&lt;/a&gt;&lt;/strong&gt;, onde trabalhei com grandes mentes que me ensinaram grandes coisas, infelizmente não durou o tempo que eu gostaria, mas valeu a pena cada dia de trabalho.&lt;/p&gt;
+
+&lt;p&gt;Em 2016 eu comecei a trabalhar na &lt;strong&gt;&lt;a href="https://www.lojaskd.com.br/"&gt;LojasKD&lt;/a&gt;&lt;/strong&gt;, onde tenho o prazer de trabalhar com pessoas incríveis, estou muito feliz em poder ajudar a melhorar e construir um projeto que vende algumas dezenas de milhares por dia.&lt;/p&gt;
+
+&lt;figure class="image"&gt;
+  &lt;img alt="Meu-github-em-2016" width="1476" height="408" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2017/01/meu-github-em-2016.png?1503439213" /&gt;
+  &lt;figcaption&gt;Meu Github em 2016&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;Planing 2017&lt;/h2&gt;
+
+&lt;p&gt;Quero fazer em 2017 o dobro das coisas que fiz em 2016.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ajudar&lt;/strong&gt; o máximo de pessoas a encontrarem o seu caminho no mundo do desenvolvimento.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Escrever mais&lt;/strong&gt; no meu &lt;a href="/blog"&gt;blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fazer mais&lt;/strong&gt; projetos pequenos e grandes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aprender mais&lt;/strong&gt; sobre &lt;strong&gt;acessibilidade&lt;/strong&gt;, &lt;strong&gt;UX&lt;/strong&gt; e &lt;strong&gt;SEO&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aprender&lt;/strong&gt; sobre testes em &lt;strong&gt;JavaScript&lt;/strong&gt; e &lt;strong&gt;aprender mais&lt;/strong&gt; sobre &lt;strong&gt;es6/es7&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Quero poder &lt;strong&gt;palestrar&lt;/strong&gt; e participar mais de eventos de tecnologia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ler mais livros&lt;/strong&gt;, não lembro quantos eu li em 2016 mas quero dobrar ou triplicar a quantidade em 2017.&lt;/p&gt;
+
+&lt;p&gt;Quero &lt;strong&gt;mudar o mundo&lt;/strong&gt; a minha volta, mudar &lt;strong&gt;pensamentos&lt;/strong&gt;, mudar &lt;strong&gt;atitudes&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Quero fazer a diferença.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seja muito bem vindo 2017.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Eita esse 2016 hein&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Foi um ano de &lt;strong&gt;contribuições&lt;/strong&gt;, &lt;strong&gt;ensino&lt;/strong&gt;, &lt;strong&gt;aprendizado&lt;/strong&gt; e &lt;strong&gt;trabalho duro&lt;/strong&gt;, espero que esse legado continue em 2017 e em dobro.&lt;/p&gt;
+
+&lt;p&gt;E o seu 2016 como foi?&lt;/p&gt;
+
+&lt;p&gt;O que você espera fazer no seu ano novo?&lt;/p&gt;
+
+&lt;p&gt;Comenta aí!&lt;/p&gt;
+
+&lt;p&gt;Forte abraço!&lt;/p&gt;
+
+&lt;p&gt;/end&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Como um time</title>
+    <link rel="alternate" href="http://nandomoreira.me/como-um-time/"/>
+    <id>http://nandomoreira.me/como-um-time/</id>
+    <published>2016-12-27T23:48:00+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;TRABALHAR COMO UM TIME&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; não é fazer reuniões rápidas pelas manhãs pra não ultrapassar o tempo estimado pelo &lt;a href="http://www.desenvolvimentoagil.com.br/scrum/daily_scrum"&gt;&amp;ldquo;desenvolvimento ágil&amp;rdquo;&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é saber ouvir cada membro da equipe o que houve de errado no dia anterior e perguntar se ele precisa de ajuda para resolver hoje.&lt;/p&gt;
+
+&lt;p&gt;Não é ficar horas e horas tentando resolver um problema sozinho&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é consultar o colega do lado e perguntar se ele pode te ajudar a resolve o problema junto com você.&lt;/p&gt;
+
+&lt;p&gt;Não é resolver as suas tarefas rápido e ir tomar aquele café demorado&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é levantar da sua cadeira e ir ver se seus colegas precisam de alguma ajuda com alguma tarefa complexa.&lt;/p&gt;
+
+&lt;p&gt;Não é definir sozinho o padrão do projeto que você começou sozinho&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é saber definir o padrão da equipe e certificar de que todos estão de acordo com o padrão definido.&lt;/p&gt;
+
+&lt;p&gt;Não é ler um artigo ou uma notícia bacana e guardar apenas para você&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é compartilhar aquele artigo que você leu e sabe que pode servir para toda equipe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TRABALHAR COMO UM TIME&lt;/strong&gt; é ter motivação intrínseca, que te faz sair da cama em dias ruins pra encontrar a equipe e fazer um bom trabalho&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é saber compartilhar o seu conhecimento nas standups, talks e conversas de corredor&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é saber ouvir e dizer não quando necessário&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é saber qual o nível de cada membro da equipe e como você pode ajuda-los a alcançar seus objetivos no time&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é rir de coisas engraçadas e entrar em conflitos quando necessário&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é acreditar e confiar no membro da equipe e saber que ele não vai decepcionar o time&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; é elevar o projeto a um nível superior, que nem mesmo você nem seus superiores imaginariam chegar, mas só conseguiram chegar lá porque viram a necessidade de trabalhar em equipe, &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; &lt;strong&gt;como um time.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Esses são meus sinceros agradecimentos a todos as pessoas que já trabalhei e que me ensinaram o verdadeiro valor do trabalho em equipe.&lt;/p&gt;
+
+&lt;p&gt;Em especial ao time de TI da &lt;a href="https://www.lojaskd.com.br/"&gt;LojasKD&lt;/a&gt; por me acolherem como parte da equipe mesmo antes de entrar pro time, e que mesmo não curtindo as minhas piadas rirem do mesmo jeito.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;😎&lt;/p&gt;
+
+&lt;p&gt;Para refletir um pouco mais sobre o trabalho em equipe eu vou deixar esse video do &lt;strong&gt;Bernard De Luna&lt;/strong&gt; como bônus.&lt;/p&gt;
+
+&lt;div class="responsive-video"&gt;&lt;iframe width="560" height="420" src="//www.youtube.com/embed/EJzhit_HAIA?color=white&amp;theme=light"&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;UM FELIZ 2017 TIME!&lt;/strong&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Como ver o Calendário direto pelo terminal</title>
+    <link rel="alternate" href="http://nandomoreira.me/calendario-rapido-direto-no-terminal/"/>
+    <id>http://nandomoreira.me/calendario-rapido-direto-no-terminal/</id>
+    <published>2016-09-02T22:12:49+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;p&gt;Você tá focado no código, apenas com algumas ferramentas abertas e não quer procurar o caléndário na listagem de programas instalados no seu computador, ou ir até a barra de ferramentas e clicar na data pra poder ver o calendário completo do mês ou do ano?&lt;/p&gt;
+
+&lt;p&gt;Essa será uma dica bem curta e rápida, assim como o comando que você vai executar direto pelo terminal e que vai te ajudar a visualizar o calendário completo de qualquer ano.&lt;/p&gt;
+
+&lt;p&gt;Basta que você digite o comando &lt;code&gt;cal&lt;/code&gt;, sim isso mesmo.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;cal
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;O comando acima sem nenhum parâmentro exibe o mês atual completo pra você.&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Cal-command" width="1066" height="482" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2016/09/cal-command.png?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Se você quiser escolher o Mês para ser exibido você precisa passar o múmero do mês (de 1 a 12) e o ano, assim:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;cal 3 2017
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Isso vai imprimir o mês excolhido.&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Cal-march-2017" width="1072" height="444" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2016/09/cal-march-2017.png?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Caso você queira apenas o ano&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;cal 2018
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="image"&gt;
+  &lt;img alt="Cal-year-2018" width="1226" height="1284" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2016/09/cal-year-2018.png?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;That&amp;rsquo;s it! &lt;a target="blank" href="http://ss64.com/bash/cal.html"&gt;Aqui está um link para uma simples doc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Espero que use e abuse! 😀&lt;/p&gt;
+
+&lt;p&gt;/end&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Reflexão: agradeça mais e reclame menos</title>
+    <link rel="alternate" href="http://nandomoreira.me/agradeca-mais-e-reclame-menos/"/>
+    <id>http://nandomoreira.me/agradeca-mais-e-reclame-menos/</id>
+    <published>2016-08-23T19:27:09+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;p&gt;Você já parou pra pensar quantas vezes você reclama por dia, ou quantas vezes você reclamou hoje? Vamos lá, faça um teste! Você vai ficar surpreso em saber que reclamações fazem parte do nosso dia-a-dia e nem percebemos.&lt;/p&gt;
+
+&lt;p&gt;E se a gente substituir nossas reclamações diárias por agradecimentos?&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Thanks" width="500" height="241" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2016/08/thanks.gif?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;E se pararmos de reclamar que está chovendo no horário de ir pro trabalho apenas agradecer por ter um trabalho?&lt;/p&gt;
+
+&lt;p&gt;E se ao invés de reclamarmos que acordamos muito cedo todos os dias agradecer por ter onde dormir e por acordar com vida todas as manhãs?&lt;/p&gt;
+
+&lt;p&gt;E se apenas agradecermos por ter agasalhos para nos aquecer todos dias ao invés de reclamar que está muito frio?&lt;/p&gt;
+
+&lt;p&gt;Parar de reclamar que está muito quente e simplesmente agradecer pela água ou refrigerante (com limão e gelo) que tomamos, apenas porque podemos.&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Nooo" width="640" height="360" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2016/08/nooo.gif?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ao invés de reclamar que as coisas não estão dando certo, porque não agradecer que você quase conseguiu? agradeca que você teve forças e quase chegou perto.&lt;/p&gt;
+
+&lt;p&gt;Vamos pegar o exemplo das posições 1º, 2º e 3º lugar nas Olimpíadas Rio 2016, é comprovado que quem chega em 3º lugar está muito mais agradecido e feliz por estar ali do que quem chegou em 2º, quem consegue 3º lugar sempre pensa que não poderia ter conseguido nada e ganhar bronze é melhor que nada, certo?&lt;/p&gt;
+
+&lt;p&gt;Porque não agradecer por ter participado de uma olimpíada, poder correr ao lado de grandes atletas ou ganhar o 3º lugar? Pois foi o que aconteceu comigo nos últimos meses.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Pipefy&lt;/h3&gt;
+
+&lt;p&gt;Semana passada eu perdi meu emprego, um trabalho que eu amava apesar de tudo, uma empresa &lt;em&gt;cool&lt;/em&gt;, divertida, com pessoas jovens e motivadas.&lt;/p&gt;
+
+&lt;p&gt;Eu poderia tá puto agora, irritado e xingando tudo e todos ao meu redor, mas não estou, muito pelo contrário estou muito feliz! Dai você pensa: &lt;strong&gt;&lt;em&gt;&amp;ldquo;mas quem diabos fica feliz por perder o emprego?”&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Angry" width="500" height="233" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2016/08/angry.gif?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Calma jovem.&lt;/p&gt;
+
+&lt;p&gt;Eu não estou feliz por perder meu emprego. Estou feliz por ter tido essa grande oportunidade, de poder trabalhar ao lado pessoas inteligentes e excepcionais, ter tido a oportunidade de aprender muitas coisas legais e crescido um pouco cada dia que estava lá.&lt;/p&gt;
+
+&lt;p&gt;Eu poderia ficar apenas olhando o lado negativo de se perder um emprego, mas eu passei por muitas coisas boas quando trabalhava lá, pessoas me apoiavam e tinham paciência comigo, e por esse motivo não posso simplesmente esquecer por não poder mais fazer parte de tudo isso.&lt;/p&gt;
+
+&lt;p&gt;Eu poderia ficar triste por não contribuir mais com o crescimento do produto, mas o melhor a fazer é olhar para trás e ver o quanto eu contribui, o quanto eu já fiz por ele para ele estar ali, e agradecer por isso.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;E se substituirmos nossas reclamações diárias por agradecimentos, vamos fazer um teste?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Conclusão&lt;/h3&gt;
+
+&lt;p&gt;Sempre que acontece algo ruim no meio do caminho simplesmente não conseguimos enxergar o que aconteceu de bom, não por maldade isso é natural no ser humano.&lt;/p&gt;
+
+&lt;p&gt;Por isso eu desafio você a reclamar cada vez menos e agradecer todos os dias por ter mais um dia para viver.&lt;/p&gt;
+
+&lt;p&gt;Comece aos poucos, tente fazer isso por um dia, depois dois, depois uma semana, é tudo uma questão de costume.&lt;/p&gt;
+
+&lt;p&gt;/end&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Ei front-end! Você conhece o Panda? 🐼</title>
+    <link rel="alternate" href="http://nandomoreira.me/ei-front-end-voce-conhece-o-panda/"/>
+    <id>http://nandomoreira.me/ei-front-end-voce-conhece-o-panda/</id>
+    <published>2015-12-11T02:00:00+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;p&gt;Essa é uma dica rápida para os amantes da web, quem gosta, ama e trabalha com desenvolvimento de interfaces para o usuário.&lt;/p&gt;
+
+&lt;h2&gt;O que é?&lt;/h2&gt;
+
+&lt;p&gt;O &lt;a href="http://usepanda.com/"&gt;Panda 4 - News &amp;amp; Inspiration Dashboard&lt;/a&gt; é um dashborad (painel) com freeds de websites, one pages, imagens, fotos e projetos inspiradores para quem gosta de apreciar essa arte.&lt;/p&gt;
+
+&lt;p&gt;Ele tem a versão &lt;a href="http://usepanda.com/app/"&gt;web&lt;/a&gt; e extensões para &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/panda-daily-news/"&gt;Firefox&lt;/a&gt; e &lt;a href="https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko"&gt;Google Chrome&lt;/a&gt;. Eu uso ele nos dois navegadores (Firefox e Chrome).&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Panda-app-chrome-extension" width="1211" height="915" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/12/panda-app-chrome-extension.png?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Acho incrivel apreciar o trabalho de grandes mentes do mundo web e sempre que preciso buscar uma inspiração pra algo que estou criando é nesses sites que encontro o que preciso.&lt;/p&gt;
+
+&lt;h2&gt;Isso não é só para designers&lt;/h2&gt;
+
+&lt;p&gt;Como eu disse &lt;a href="/nao-seja-apenas-um-recortador-de-psd"&gt;nesse artigo aqui&lt;/a&gt;, um front-end com um bom lado criativo tem o seu valor e demonstra ser capaz de criar interfaces sem precisar da ajuda de um designer.&lt;/p&gt;
+
+&lt;p&gt;Navegue, pesquise, busque coisas novas. E &lt;a href="http://usepanda.com/"&gt;use panda&lt;/a&gt;! :D&lt;/p&gt;
+
+&lt;p&gt;/end.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Não seja apenas um recortador de PSD!</title>
+    <link rel="alternate" href="http://nandomoreira.me/nao-seja-apenas-um-recortador-de-psd/"/>
+    <id>http://nandomoreira.me/nao-seja-apenas-um-recortador-de-psd/</id>
+    <published>2015-12-10T23:37:08+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Nota:&lt;/strong&gt; Eu pensei muito antes de escrever esse artigo, sério! Não sou muito bom em passar sermão ou dicas por textos, mas vamos lá&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Um assunto polêmico&lt;/h2&gt;
+
+&lt;p&gt;Eu tenho um pouco mais de 6 anos de experiência em desenvolvimento web e posso falar que já vi de tudo um pouco nessa área, e esse artigo vai tratar de um assunto um pouco polêmico (como mamilos): &lt;em&gt;&lt;strong&gt;O profissional deve saber de outras áreas que não são relacionadas a área dele?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Polemico" width="956" height="500" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/12/polemico.jpg?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Nota:&lt;/strong&gt; Porque eu me referi ao &lt;strong&gt;profissional&lt;/strong&gt; e não ao &lt;strong&gt;front-end&lt;/strong&gt; no texto acima? Por que, apesar do texto ser focado no mundo front-end, onde estou mais ligado, ele também vale para designers, programadores, marketeiros, UX e afins.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Durante minha trajetória até aqui eu já trabalhei com alguns programadores e designers que discordariam completamente da minha opinião, que é:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sim, o profissional que trabalha com web deve saber, ou pelo menos entender das áreas a sua volta&lt;/em&gt;&lt;/strong&gt;. Principamente as áreas nas quais sua equipe trabalha e as equipes que ele tem contato dentro da empresa onde trabalha.&lt;/p&gt;
+
+&lt;p&gt;Calma jovem, antes de você vir com pedras nas mãos eu vou começar a defender a minha opinião com os 6 itens logo abaixo.&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Urso" width="600" height="440" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/12/urso.jpg?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;1. Você raramente será passado para trás&lt;/h2&gt;
+
+&lt;p&gt;Nessa área tem muito de, como dizia minha mãe: &lt;em&gt;&amp;ldquo;Tentar tapar o sol com a peneira!&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Turtles" width="250" height="302" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/12/turtles.gif?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Sempre tem um que &amp;ldquo;acha&amp;rdquo; que o jeito dele desenvolver é o certo, mas tá longe de ser, tem aquele &amp;ldquo;espertalhão&amp;rdquo; que enrola por horas em uma tarefa que ele levaria alguns minutos, e por ai vai.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Eu conheci programador que passava designers para trás em orçamentos só porque eles não tinham noção de quanto tempo ele levaria para desenvolver um sistema.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Entendendo como algumas coisas funcionam você pode cortar o barato desses fanfarrões :)&lt;/p&gt;
+
+&lt;h2&gt;2. Entenda como está sendo feito&lt;/h2&gt;
+
+&lt;p&gt;Não seja aquele programador que chega no horário, bate o ponto e cola o traseiro na cadeira o dia todo. De uma volta pela empresa, vá no departamento de marketing e assista um pouco do processo deles, pergunte como o designer chegou aquela ideia, acompanhe o UX no processo de planejamento do produto. Isso tudo pode trazer vários beneficios, agrega conhecimento a você e aos envolvidos.&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Spok" width="250" height="188" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/12/spok.gif?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;De uma volta pela empresa, vai te fazer bem!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;3. Não feche os olhos para as novidades&lt;/h2&gt;
+
+&lt;p&gt;Essa vai, com um carinho especial, para programadores back-end, aqueles programadores que ainda tem medo das tags HTML5 e das animações das CSS3.&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Robo" width="216" height="156" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/12/robo.gif?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Não seja esse cara. Entenda como as tecnologias novas podem ajudar em um projeto, como o HTML5 pode melhorar, e muito, o SEO de um website, como as animações das CSS3 podem, em alguns casos, até substituir o Javascript, não custa dar uma lida em artigos e tutoriais na internet.&lt;/p&gt;
+
+&lt;h2&gt;4. Não tenha medo de aprender coisas novas&lt;/h2&gt;
+
+&lt;p&gt;Um designer que aprende a programar não quer dizer que a empresa vai passar as tarefas do programador pra ele, quando ele estiver com o tempo livre, e assim vale para o programador ou para o front-end.&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Skate" width="240" height="180" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/12/skate.gif?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Aprender algo novo eleva muito o seu valor, como pessoa e como profissional, e isso ninguém tira de você.&lt;/p&gt;
+
+&lt;p&gt;Não tenha medo de saber como as coisas funcionam em outras áreas, aprenda de verdade, você vai se surpreender com quanta coisa legal tem por ai.&lt;/p&gt;
+
+&lt;h2&gt;5. Não tenha medo que a empresa te explore por saber muitas coisas&lt;/h2&gt;
+
+&lt;p&gt;Eu conversei com uma designer uma vez e ela mencionou aquelas empresas que abrem vagas para designers e exigem que o profissional saiba, HTML, CSS, JS, PHP, Java, Ruby, NodeJS, banco de dados, lavar, passar e cozinhar (mentira, nem é tudo isso eu exagerei um pouco).&lt;/p&gt;
+
+&lt;p&gt;Isso ainda existe e duvido que vá mudar, mas&amp;hellip; quanto mais você souber maior o seu valor, concorda?&lt;/p&gt;
+
+&lt;p&gt;Geralmente, nas descrições das vagas, eles pedem um monte de coisas, mas muitas dessas coisas eles querem que o candidato saiba apenas o básico, apenas ter uma noção já basta. Não é que eles vão te contratar como front-end e vão te colocar como programador back-end, ou te contrata como designer e te colocar como desenvolvedor &lt;em&gt;full stack&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2&gt;6. E por último, não seja apenas um recortador de PSD!&lt;/h2&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Bugginho" width="800" height="600" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/12/bugginho.png?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Se você se titula por ai um &lt;strong&gt;&lt;em&gt;Front-end engineer&lt;/em&gt;&lt;/strong&gt; e não sabe se virar bem com alguma linguagem de programação, não sabe otimizar a performance de um site, ou não sabe usar o terminal a seu favor, sinto muito te dizer amigo, mas &lt;strong&gt;&lt;em&gt;você é apenas um recortador de PSD&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ser &lt;strong&gt;&lt;em&gt;front-end&lt;/em&gt;&lt;/strong&gt; vai muito além de apenas saber Javascript, você precisa cuidar do seu código, deixar seu JS performático e otimizar as variáveis.&lt;/p&gt;
+
+&lt;p&gt;Ser &lt;strong&gt;&lt;em&gt;front-end&lt;/em&gt;&lt;/strong&gt; vai muito além de apenas saber CSS, você precisa saber pré-processadores e usá-los da forma correta otimizando as suas CSS.&lt;/p&gt;
+
+&lt;p&gt;Saber HTML não basta para ser um bom &lt;strong&gt;&lt;em&gt;front-end&lt;/em&gt;&lt;/strong&gt;, você precisa entender, nas entrelinhas, o que cada tag tem pra te contar, ler o seu próprio HTML repetidas vezes a procura de uma imagem com um atributo &lt;code&gt;alt&lt;/code&gt; vazio, saber pelo menos o básico de acessibilidade e de SEO é o mínimo para um bom &lt;strong&gt;&lt;em&gt;front-end&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Saber usar pacotes como &lt;em&gt;gems&lt;/em&gt; e &lt;em&gt;npm&lt;/em&gt; para automatizar tarefas repetidas, saber usar git, criar e compartilhar coisas no github, tudo isso te faz um bom &lt;strong&gt;&lt;em&gt;front-end&lt;/em&gt;&lt;/strong&gt; e aumenta o seu valor como profissional.&lt;/p&gt;
+
+&lt;p&gt;Não deixe que digam que você é &lt;strong&gt;&lt;em&gt;&amp;ldquo;apenas um fatiador de layout&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; e &lt;strong&gt;&lt;em&gt;&amp;ldquo;diagramador de telas&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, vá além do HTML, CSS e JS padrão de todos os sites, aprenda uma nova linguam de programação (recomendo ruby e python), tenha noção de design, cores e tipografia. Isso tudo vai te ajudar muito em sua carreira como &lt;strong&gt;&lt;em&gt;Front-end&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;O mercado necessita de profissionais que interajam e aprendem sobre outras áreas, que não estejam relacionadas apenas com a sua formação.Se você não correr poderá ficar para trás.&lt;/p&gt;
+
+&lt;p&gt;Tem cada vez mais por ai, designers sabendo front-end, front-end sabendo UX e back-end tendo noções de design, não deixe que uma dessas pessoas tome sua vaga no mercado de trabalho.&lt;/p&gt;
+
+&lt;p&gt;/end.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Usando categorias e tags no Jekyll</title>
+    <link rel="alternate" href="http://nandomoreira.me/usando-categorias-e-tags-no-jekyll/"/>
+    <id>http://nandomoreira.me/usando-categorias-e-tags-no-jekyll/</id>
+    <published>2015-10-14T00:35:51+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Esse artigo foi traduzido de: &lt;a href="http://www.minddust.com/post/tags-and-categories-on-github-pages/"&gt;How to use tags and categories on github pages without plugins&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href="http://pages.github.com/"&gt;GitHub Pages&lt;/a&gt; serviço é simplesmente incrível, e com a integração  Jekyll ele fica ainda mais impressionante! Mas existem algumas limitações neste grande sistema automatizado:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;não há próprios plugins&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pages.github.com/versions/"&gt;plugins disponíveis limitados&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Como você já deve saber:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;não há plugins de tag/categoria disponível (atualmente).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Triste&amp;hellip; Mas isso era algo que eu realmente queria ter!&lt;/p&gt;
+
+&lt;p&gt;Então eu construí minha própria &lt;em&gt;Data-Template-NoPlugin-System&lt;/em&gt; e funciona.&lt;/p&gt;
+
+&lt;p&gt;Você pode ver uma demonstração ao vivo nesta página.&lt;/p&gt;
+
+&lt;p&gt;Aqui está um pequeno guia de como implementá-lo:&lt;/p&gt;
+
+&lt;h4&gt;1. Adicione um pouco de lógica no template do seu layout &lt;em&gt;post.html&lt;/em&gt;&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight liquid"&gt;&lt;code&gt;&lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;assign&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;post&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;page&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+&lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;post&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;tags&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;size&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+  &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;capture&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="na"&gt;tags_content&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;Posted with &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;post&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;tags&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;size&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;&amp;lt;i class="icon icon-tag"&amp;gt;&amp;lt;/i&amp;gt;&lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;else&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;&amp;lt;i class="icon icon-tags"&amp;gt;&amp;lt;/i&amp;gt;&lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;endif&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;: &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;endcapture&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+  &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;post_tag&lt;span class="w"&gt; &lt;/span&gt;in&lt;span class="w"&gt; &lt;/span&gt;post.tags&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+    &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;data_tag&lt;span class="w"&gt; &lt;/span&gt;in&lt;span class="w"&gt; &lt;/span&gt;site.data.tags&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+      &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;data_tag&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;slug&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;post_tag&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+        &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;assign&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;tag&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;data_tag&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+      &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;endif&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+    &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;endfor&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+    &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;tag&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+      &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;capture&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="na"&gt;tags_content_temp&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;tags_content&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;&amp;lt;a href="/blog/tag/&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;tag&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;slug&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;/"&amp;gt;&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;tag&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;name&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;&amp;lt;/a&amp;gt;&lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;forloop&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;last&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;false&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;, &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;endif&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;endcapture&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+      &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;assign&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;tags_content&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;tags_content_temp&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+    &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;endif&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+  &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;endfor&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+&lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;else&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+  &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;assign&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;tags_content&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;''&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+&lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;endif&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;2. Coloque o conteúdo da variavel &lt;em&gt;tags_content&lt;/em&gt; onde quiser dentro do seu layout &lt;em&gt;post.html&lt;/em&gt;&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight html"&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;p&lt;/span&gt; &lt;span class="na"&gt;id=&lt;/span&gt;&lt;span class="s"&gt;"post-meta"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;{{ tags_content }}&lt;span class="nt"&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;3. Crie um layout chamado &lt;em&gt;blog&lt;em&gt;by&lt;/em&gt;tag.html&lt;/em&gt;&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight liquid"&gt;&lt;code&gt;&amp;lt;h1&amp;gt;Articles by tag :&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;page&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;tag&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;&amp;lt;/h1&amp;gt;
+&amp;lt;div&amp;gt;
+  &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;site&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;tags&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;page&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;tag&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+    &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;post&lt;span class="w"&gt; &lt;/span&gt;in&lt;span class="w"&gt; &lt;/span&gt;site.tags[page.tag]&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+      &amp;lt;a href="&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;post&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;url&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;/"&amp;gt;&lt;span class="p"&gt;{{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;post&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;title&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}}&lt;/span&gt;&amp;lt;/a&amp;gt;
+    &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;endfor&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+  &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;else&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+    &amp;lt;p&amp;gt;There are no posts for this tag.&amp;lt;/p&amp;gt;
+  &lt;span class="p"&gt;{%&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kr"&gt;endif&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;%}&lt;/span&gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;4. Adicione em seu &lt;em&gt;post entry&lt;/em&gt; o front-matter, como de costume.&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight yaml"&gt;&lt;code&gt;&lt;span class="nn"&gt;---&lt;/span&gt;
+&lt;span class="na"&gt;layout&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;post&lt;/span&gt;
+&lt;span class="na"&gt;title&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;How To Use Tags And Categories On GitHub Pages Without Plugins&lt;/span&gt;
+&lt;span class="na"&gt;category&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;programming&lt;/span&gt;
+&lt;span class="na"&gt;tags&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="pi"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;github&lt;/span&gt;&lt;span class="pi"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;github-pages&lt;/span&gt;&lt;span class="pi"&gt;,&lt;/span&gt; &lt;span class="nv"&gt;jekyll&lt;/span&gt;&lt;span class="pi"&gt;]&lt;/span&gt;
+&lt;span class="nn"&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;5. Para cada tag usada você tem que adicionar uma entrada dentro do arquivo &lt;em&gt;_data/tags.yml&lt;/em&gt;&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight yaml"&gt;&lt;code&gt;&lt;span class="pi"&gt;-&lt;/span&gt; &lt;span class="na"&gt;slug&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;github-pages&lt;/span&gt;
+  &lt;span class="na"&gt;name&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;GitHub Pages&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;6. Para cada tag usada você tem que adicionar um template vazio. Ex.: &lt;em&gt;blog/tag/github-pages.md&lt;/em&gt;&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight yaml"&gt;&lt;code&gt;&lt;span class="nn"&gt;---&lt;/span&gt;
+&lt;span class="na"&gt;layout&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;blog_by_tag&lt;/span&gt;
+&lt;span class="na"&gt;tag&lt;/span&gt;&lt;span class="pi"&gt;:&lt;/span&gt; &lt;span class="s"&gt;github-pages&lt;/span&gt;
+&lt;span class="c1"&gt;# permalink: /blog/tag/github-pages/&lt;/span&gt;
+&lt;span class="nn"&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Para uma implementação mais complexa de categorias: &lt;a href="https://github.com/nandomoreirame/nandomoreira.me/tree/fcaa1fa6d99b3a0b2838842c291cdc0e86b935a6/source/jekyll"&gt;Veja meu repositório&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;/end&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Faço front-end de graça, saiba como!</title>
+    <link rel="alternate" href="http://nandomoreira.me/faco-front-end-de-graca/"/>
+    <id>http://nandomoreira.me/faco-front-end-de-graca/</id>
+    <published>2015-10-12T03:00:00+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;p&gt;Você deve estar se perguntando: &lt;em&gt;&lt;strong&gt;&amp;ldquo;Front-end de graça? Como assim?&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;É isso mesmo que você leu, &lt;strong&gt;Faço front-end de graça&lt;/strong&gt;, mas tem alguns requisitos necessários para que isso aconteça, vem comigo que te explico como&amp;hellip;&lt;/p&gt;
+
+&lt;h2&gt;I ❤️ open source&lt;/h2&gt;
+
+&lt;p&gt;Ultimamente estou gostando muito de ajudar a criar projetos &lt;em&gt;open source&lt;/em&gt;, então um dos requisitos para que eu possa fazer um &lt;strong&gt;HTML bonitão&lt;/strong&gt; para o seu projeto é que ele precisa estar no &lt;a href="https://github.com/nandomoreirame"&gt;Github&lt;/a&gt; para que todos possam ver, usar e contribuir com ele.&lt;/p&gt;
+
+&lt;p&gt;Isso mesmo! Você tem um framework e quer fazer uma documentação bonita pra dele? Tem um projeto bacana e quer uma landing page ou hotsite? Conte comigo!!&lt;/p&gt;
+
+&lt;h2&gt;Troca de conhecimento&lt;/h2&gt;
+
+&lt;p&gt;Outro requisito, caso não seja possível cumprir com o primeiro, é a &lt;em&gt;&lt;strong&gt;troca de conhecimento&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Eu tenho amplo conhecimento em tecnologias para &lt;em&gt;front-end&lt;/em&gt; como &lt;strong&gt;HTML(Jekyll/liquid, jade, Haml, Erb), CSS(CSS3, SASS, Less, Stylus) e Javascript(jQuery, AngularJS, NodeJS, Gulp.js)&lt;/strong&gt;, e eu posso contribuir com o seu projeto &lt;strong&gt;SEM LHE COBRAR NADA POR ISSO&lt;/strong&gt;, se e somente se, você tiver algum conhecimento(que possa ser de meu interesse, claro) você pode ensina-lo a mim, seria algo como: &lt;em&gt;uma nova linguagem de programação, um framework bacana, tocar violão, guitarra, sax, bombardão, teclado, piano, dançar, cozinhar&amp;hellip;&lt;/em&gt; ou seja qualquer coisa mesmo!!!&lt;/p&gt;
+
+&lt;h2&gt;E aí, Bora? 👊&lt;/h2&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Madruga" width="459" height="323" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/10/madruga.gif?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Eu apoio totalmente a troca deconhecimento, seja em uma boa conversa sobre culinária ou em um repositório no &lt;em&gt;Github&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Você quer troca figurinhas comigo? Seu projeto está no &lt;em&gt;Github&lt;/em&gt; e você precisa de um front-end? Você sabe tocar algum instrumento e tem um projeto bacana para colocar no ar? Podemos nos encontrar e conversar sobre o assunto, podemos fazer isso acontecer&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Só se for agora 🤘&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;/end&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>8 meses de MalaPronta e o fim.</title>
+    <link rel="alternate" href="http://nandomoreira.me/8-meses-de-malapronta-e-o-fim/"/>
+    <id>http://nandomoreira.me/8-meses-de-malapronta-e-o-fim/</id>
+    <published>2015-09-30T03:00:00+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;p&gt;Esse post não poderia começar melhor, com um &amp;ldquo;&lt;em&gt;I love U&lt;/em&gt;&amp;rdquo; para MalaPronta.com, um ambiente descontraído com piadas ruins (mas que são boas) e uma sala que não é nem quente nem fria e nem escura ou clara(entendedores entenderão).&lt;/p&gt;
+
+&lt;div class="image"&gt;
+  &lt;img alt="Galera-do-porao-malapronta" width="1599" height="899" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/09/galera-do-porao-malapronta.jpg?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Eu queria poder dizer que to feliz com tudo isso, mas não to. Eu amava trabalhar lá, apesar de muitas intrigas e desavenças, eu amava meu emprego.&lt;/p&gt;
+
+&lt;p&gt;Eu vou compartilhar com vocês meus &lt;strong&gt;8 meses&lt;/strong&gt; de experiência em uma &lt;em&gt;startup&lt;/em&gt; com 10 anos de vida, posso dizer que não vi o começo de tudo, mas vi o fim do começo, vi o fim de sonhos e planos, amizades e desavenças, tudo se acabar dentro de uma sala de reuniões de um hotel, tudo se acabou com algumas palavas ditas em dois idiomas, porque um só já não bastava.&lt;/p&gt;
+
+&lt;h2&gt;Meu começo na MalaPronta&lt;/h2&gt;
+
+&lt;p&gt;Tudo começou em meados Janeiro, quando nos meus primeiros dias de empresa eu teria que entender um sistema desconhecido, entender como melhorar (ou deixar menos ruim) o HTML, o CSS e o JS daquele sistema, esse sistema era chamado de &lt;strong&gt;Reserva Imediata&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;No começo tudo parecia muito confuso, muitos arquivos de configs, era configs pra tudo, pra por CSS, pra tirar CSS, pra por JS, pra tirar JS.. isso tudo era novo pra mim, mas bora lá melhorar esse projeto.&lt;/p&gt;
+
+&lt;h2&gt;Primeiro desafio&lt;/h2&gt;
+
+&lt;p&gt;O primeiro desafio, que me foi solicitado, foi &lt;em&gt;&lt;strong&gt;Ajudar a melhorar a performance do projeto&lt;/strong&gt;&lt;/em&gt;. Todos estavam envolvido nesse novo desafio, DBA, Integrações, Back-end e Front-end, confesso que tava com receio de não conseguir ajudar em quase nada mas eu aceitei o desafio.&lt;/p&gt;
+
+&lt;p&gt;Primeira coisa que configurei no projeto foi o &lt;strong&gt;Gulp&lt;/strong&gt;, com ele eu consegui &lt;em&gt;minificar&lt;/em&gt; quase 4 mil arquivos CSS e JS, e comprimir as mais de 3 mil imagens em questões de minutos, depois fizemos uma &amp;ldquo;&lt;em&gt;marotagem&lt;/em&gt;&amp;rdquo; com &lt;em&gt;regex&lt;/em&gt; para &lt;em&gt;minificar&lt;/em&gt; o HTML processado pelo &lt;strong&gt;PHP&lt;/strong&gt;, com isso reduziriamos relativamente o tamanho dos arquivos de download do site, foi um bom ganho.&lt;/p&gt;
+
+&lt;p&gt;Resultado, conseguimos baixar a média do site de 14s pra 8s, quase a metade não? Claro que isso não se deve só a mim, a galera trabalhou duro para isso acontecer, equipe massa (faltou o churrasco pra comemorar hein!).&lt;/p&gt;
+
+&lt;h2&gt;Segundo desafio&lt;/h2&gt;
+
+&lt;p&gt;Eu tava quase fechando dois meses de empresa quando veio o segundo desafio: &lt;em&gt;&lt;strong&gt;Transformar o Reserva Imediata em um site responsivo&lt;/strong&gt;&lt;/em&gt;, esse eu encarei com a cara e a coragem. Eu nunca tinha pego um site antigo, de código legado, que sequer tinha visto uma media query na vida (talvez a media print mas essa não conta) e transformado em responsivo, esse seria um desafio e tanto.&lt;/p&gt;
+
+&lt;p&gt;Resultado, em duas semanas a versão responsiva do site já podia ir pro ar, a galera curtiu, eles iriam eliminar completamente o &lt;strong&gt;m.&lt;/strong&gt;, um projeto que era uma pedra no sapato dos devs.&lt;/p&gt;
+
+&lt;h2&gt;Terceiro desafio&lt;/h2&gt;
+
+&lt;p&gt;Esse era com certeza o maior desafio de todos, &lt;em&gt;&lt;strong&gt;Desenvolver o novo Reserva Imediata&lt;/strong&gt;&lt;/em&gt;. Quando eu entrei eles já estavam criando o layout há algum tempo, inclusive o meu teste foi em cima de um HTML feito com base nesse layout.&lt;/p&gt;
+
+&lt;p&gt;Como tudo na vida é injusto, o que fizeram com o trabalho do designer que criou essa versão do layout também foi injusto, com a entrada do novo UX, foram meses/anos de trabalho jogados fora. Posso dizer que vi o projeto ser jogado fora e começado de novo do zero, sem graça e sem vida&amp;hellip; e vi ele tomando vida aos poucos com a entrada da nova designer.&lt;/p&gt;
+
+&lt;p&gt;Todos sabem que designers e desenvolvedores não se dão muito bem em agências, mas ali era diferente, nos dávamos bem até, só a distância que nos separava que não era pra ser tão grande assim(eram 3 andares), no começo eu queria que ficassemos todos juntos (front, designer, ux), mas não, os designer precisavam dar prioridades pra outros projetos, não pro site (que era o principal produto da empresa), mas não liguem, &lt;strong&gt;esse terceiro desafio nunca será completado.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;A equipe&lt;/h2&gt;
+
+&lt;p&gt;Eu tinha uma equipe massa quando eu entrei, atenciosos, focados e determinados ao extremo e tínhamos um &lt;em&gt;team leader&lt;/em&gt; foda pra caralho. Éramos em 5 membros, sendo 1 &lt;em&gt;team leader&lt;/em&gt; e 3 devs e 1 front(eu). Nosso entrosamento era o máximo, tínhamos reuniões diária (das quais eu quase não participava), tínhamos almoços só da equipe (partiu Madero?), mas as perdas foi deixando isso tudo para trás, primeiro um dos membros virou Analista, logo ele foi deixando de fazer parte da equipe, deixando de ir nas reuniões e tudo mais. Entrou uma nova programadora pra ajudar nas demandas do site atual enquanto nós focavamos nossos recursos no site novo. Depois de algum tempo anunciada a saída do nosso &lt;em&gt;team leader&lt;/em&gt;, logo mais os outros foram indo também, acabou ficando só eu e a nova programadora no time do site.&lt;/p&gt;
+
+&lt;h2&gt;A segunda equipe&lt;/h2&gt;
+
+&lt;p&gt;Então foi realocado um programador de outro time para o nosso e ficamos em 3 na equipe. Essa nova formação trabalhou duro para entregar as demandas do Reserva Imediata e desenvolver novas &lt;em&gt;features&lt;/em&gt; para o novo projeto e muito mais, até que..&lt;/p&gt;
+
+&lt;h2&gt;O documento de &amp;ldquo;ajustes&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;Estávamos todos ansiosos para ver uma versão do novo site funcionando, principalmente quem não estava acompanhando o desenvolvimento de perto (pessoal do sexto), então fizemos uma versão e colocamos em um ambiente de &amp;ldquo;testes&amp;rdquo;&lt;em&gt;(entre aspas porque alguns ainda não entenderam que era apenas testes)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Então na metade da terceira semana de setembro meu gerente me chamou para fazer nosso &lt;em&gt;one one&lt;/em&gt; mensal, e ele me passou uma lista de ajustes para se fazer no site, que era pertinente ao meu trabalho. Até aí tranquilo né, lista de ajustes é normal em sites de testes, deve ta quebrando alguma coisa no layout ou tem um ajuste de erro de digitação.&lt;/p&gt;
+
+&lt;p&gt;Ta bom, vai vendo..&lt;/p&gt;
+
+&lt;p&gt;O documento contia coisas do tipo: &amp;ldquo;&lt;em&gt;A indentação no navegador está errada(bagunçada), isso prejudica manutenções futuras&lt;/em&gt;&amp;rdquo;&amp;hellip; E também: &amp;ldquo;&lt;em&gt;As classes que você usou nos títulos estão confusas, isso prejudica manutenções futuras&lt;/em&gt;&amp;rdquo;&amp;hellip; E mais: &amp;ldquo;&lt;em&gt;Muitas linhas no seu CSS, pode impactar na performance&lt;/em&gt;&amp;rdquo;.. E ainda: &amp;ldquo;&lt;em&gt;Muitas linhas no seu JS, pode impactar na performance&lt;/em&gt;&amp;rdquo;.. &lt;a href="http://geradormemes.com/media/created/18qk4w.jpg"&gt;Pode isso Arnaldo?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tem como não levar para o lado pessoal? Tem como não ter isso como um insulto ao meu trabalho? Pois bem.. Deixarei que você, que está lendo isso agora, responda essas perguntas e tire suas própias conclusões.&lt;/p&gt;
+
+&lt;h2&gt;A infra&lt;/h2&gt;
+
+&lt;p&gt;Eu não posso deixar de mencionar o famoso &lt;a href="http://wprosdocimo.com.br/fantastic_four/"&gt;Quarteto Fantástico&lt;/a&gt; que era a equipe de infraestrutura, preciso deixar os meus agradecimentos aqui por todas as pausas para o café que tivemos no sétimo andar e todos os papos nerds(e outros papos sem futuro e de buling uns com os outros), com esses com certeza materei eterno contato. Continuem salvando o mundo e fazendo ótimos cafés como vocês sempre fizeram que tudo ficará bem.&lt;/p&gt;
+
+&lt;h2&gt;O fim&lt;/h2&gt;
+
+&lt;p&gt;Como eu comentei no início desse post, por mais que existiam intrigas, fofocas e desavenças eu amava trabalhar na MalaPronta, me sentia livre para trabalhar, pesquisar e implementar novas coisas. Novas ideias surgiram de mim, como criar um framework pra padronizar códigos CSS e JS, criar um blog de TI da MalaPronta pra compartilhar nossas soluções com outras pessoas, como muitas empresas de TI fazem por ai.&lt;/p&gt;
+
+&lt;p&gt;Eu aprendi muito com as pessoas em minha volta, desenvolvedores super inteligentes, antenados e focados no trabalho. Aprendi tecnologias novas como Symfony, Vagrant, sistemas de deploys inteligentes, sistemas de monitoramentos, aprendi a ser humilde com os caras mais humildes que já conheci e que são fodas pakas, aprendi que nunca uma piada sua é boa ou tão ruim se não tiver ouvintes que a entendam bem, aprendi que um ambiente (quente ou frio, escuro ou claro) nunca é acolhedor se não tiver pessoas legais é carismáticas nele.&lt;/p&gt;
+
+&lt;p&gt;Sempre vou sentir saudades das pessoas do porão da MalaPronta, vulgo &lt;strong&gt;3° andar&lt;/strong&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Yeoman Generator Gulp Boilerplate</title>
+    <link rel="alternate" href="http://nandomoreira.me/yeoman-generator-gulp-boilerplate/"/>
+    <id>http://nandomoreira.me/yeoman-generator-gulp-boilerplate/</id>
+    <published>2015-09-27T03:00:00+00:00</published>
+    <updated>2017-08-22T21:58:16+00:00</updated>
+    <author>
+      <name>Fernando Moreira</name>
+    </author>
+    <content type="html">&lt;div class="image"&gt;
+  &lt;img alt="Yeoman" width="540" height="342" src="//d2pcfnwkh4jlye.cloudfront.net/assets/images/posts/2015/09/yeoman.jpg?1503439213" /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Eu criei um &lt;a href="https://github.com/nandomoreirame/gulp-boilerplate"&gt;repositório&lt;/a&gt; no &lt;a href="https://github.com/"&gt;Github&lt;/a&gt; onde mantenho atualizado com um &lt;strong&gt;boilerplate&lt;/strong&gt; para Gulp, o repositório era pra ser pessoal mas eu resolvi compartilhar.&lt;/p&gt;
+
+&lt;p&gt;Todo mundo já usou ou já ouviu falar dos pacotes do &lt;a href="https://nodejs.org/"&gt;NodeJS&lt;/a&gt; os famosos &lt;a href="https://www.npmjs.com/"&gt;npm&lt;/a&gt;, eu queria saber como fazer um e talvez, quem sabe, criar um pra saber que gostinho tem :)&lt;/p&gt;
+
+&lt;p&gt;Eu gosto muito da ideia do &lt;a href="http://yeoman.io/"&gt;Yeoman&lt;/a&gt; de poder iniciar um projeto rápido com os seus &lt;em&gt;&lt;a href="http://yeoman.io/generators/"&gt;generators&lt;/a&gt;&lt;/em&gt;, dai eu pensei: &lt;strong&gt;&amp;ldquo;Porque não fazer o um generator também?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dessa ideia que saiu o &lt;a href="https://github.com/nandomoreirame/generator-gulp-boilerplate"&gt;Generator Gulp Boilerplate&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A documentação do Yeoman é bem simples e fazer um generator é bem fácil, eu realmente não tive dificuldades e com a ajuda do &lt;a href="http://blog.da2k.com.br/2015/03/20/criando-uma-ferramenta-de-cli-com-nodejs/"&gt;blog do Da2k&lt;/a&gt; eu consegui publicar ele no repositório do npmjs.com.&lt;/p&gt;
+
+&lt;h2&gt;Como usar o Yeoman&lt;/h2&gt;
+
+&lt;p&gt;Como o &lt;strong&gt;Yeoman&lt;/strong&gt; é um componente do &lt;strong&gt;NodeJS&lt;/strong&gt; então você deve instalar ele com o comando &lt;code&gt;npm install&lt;/code&gt;, assim:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nb"&gt;sudo &lt;/span&gt;npm install &lt;span class="nt"&gt;-g&lt;/span&gt; yo
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Com o Yeoman devidamente instalado em sua máquina basta só ir no &lt;a href="http://yeoman.io/generators/"&gt;repositório&lt;/a&gt; e escolher o generator que quer instalar, a escolha não vai ser fácil pois atualmente tem mais de &lt;em&gt;&lt;strong&gt;3 mil&lt;/strong&gt;&lt;/em&gt; generators no repositório do Yeoman.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Procure por &amp;ldquo;gulp-boilerplate&amp;rdquo; no campo de busca que vc vai encontrar o meu generator por lá..&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Após escolher o seu generator basca clicar nele que você irá para o repositório do Github do generator, lá terá a documentação daquele generator, basta segui-la.&lt;/p&gt;
+
+&lt;h2&gt;Instalando o Gulp Boilerplate&lt;/h2&gt;
+
+&lt;p&gt;Para instalar o &lt;strong&gt;Gulp Boilerplate&lt;/strong&gt; basta executar o seguinte comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nb"&gt;sudo &lt;/span&gt;npm install &lt;span class="nt"&gt;-g&lt;/span&gt; generator-gulp-boilerplate
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Simples e fácil.&lt;/p&gt;
+
+&lt;h2&gt;Usando um generator&lt;/h2&gt;
+
+&lt;p&gt;Crie um diretório para trabalhar e entre nele.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;mkdir my-project
+&lt;span class="nb"&gt;cd &lt;/span&gt;my-project/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Basta executar o generator que foi escolhido e instalado por você basta escrever &lt;code&gt;yo&lt;/code&gt; e em seguida o &lt;em&gt;&amp;ldquo;slug&amp;rdquo;&lt;/em&gt; do generator, assim:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;yo gulp-boilerplate
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;O generator vai criar todo o &lt;em&gt;&amp;ldquo;start&amp;rdquo;&lt;/em&gt; do projeto pra você, sem reclamar ;)&lt;/p&gt;
+
+&lt;p&gt;{% image posts/2015/09/yeoman-generator-gulp-boilerplate.png alt=&amp;ldquo;Yeoman Generator Gulp Boilerplate&amp;rdquo; [autosize] %}&lt;/p&gt;
+
+&lt;h2&gt;Raio-x do Gulp Boilerplate&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Mas afinal o que tem de especial nesse tal Gulp Boilerplate pra me fazer instalar e usar ele?&amp;rdquo;&amp;ldquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Calma jovem, vou listar abaixo todos os pacotes e as tasks do Gulp Boilerplate pra você não ficar ai todo curioso:&lt;/p&gt;
+
+&lt;h4&gt;Pacotes gulp&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://browsersync.io/"&gt;browser-sync&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp"&gt;gulp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-autoprefixer"&gt;gulp-autoprefixer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-combine-media-queries"&gt;gulp-combine-media-queries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-compass"&gt;gulp-compass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-imagemin"&gt;gulp-imagemin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-include"&gt;gulp-include&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-jade"&gt;gulp-jade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-jshint"&gt;gulp-jshint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-load-plugins"&gt;gulp-load-plugins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-minify-css"&gt;gulp-minify-css&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-plumber"&gt;gulp-plumber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-rename"&gt;gulp-rename&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-size"&gt;gulp-size&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/gulp-uglify"&gt;gulp-uglify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/imagemin-pngquant"&gt;imagemin-pngquant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/jade"&gt;jade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/require-dir"&gt;require-dir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://npmjs.com/package/run-sequence"&gt;run-sequence&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tasks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;gulp default&lt;/code&gt; ou apenas &lt;code&gt;gulp&lt;/code&gt;: executa a task &lt;code&gt;gulp serve&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gulp serve&lt;/code&gt;: executa o &lt;strong&gt;watch&lt;/strong&gt; do projeto para os arquivos de &lt;code&gt;.jade&lt;/code&gt;, &lt;code&gt;.sass&lt;/code&gt; e &lt;code&gt;.js&lt;/code&gt; e executa também um servidor usando o &lt;code&gt;browser-sync&lt;/code&gt; e toda a vez que um arquivo HTML, CSS ou JS é alterado ele dá o &lt;em&gt;reload&lt;/em&gt; nos navegadores.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gulp html&lt;/code&gt;: usando os pacotes &lt;a href="https://www.npmjs.com/package/jade"&gt;jade&lt;/a&gt; e &lt;a href="https://www.npmjs.com/package/gulp-jade"&gt;gulp-jade&lt;/a&gt; essa tarefa processa arquivos &lt;a href="http://jade-lang.com/"&gt;.jade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gulp sass&lt;/code&gt;: tarefa para executar o pré-processador &lt;a href="http://sass-lang.com/"&gt;SASS&lt;/a&gt;, aqui usamos o pacote &lt;a href="https://www.npmjs.com/package/gulp-compass"&gt;gulp-compass&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gulp lint&lt;/code&gt;: aqui executamos o &lt;code&gt;lint&lt;/code&gt; para aquivos que estão em &lt;code&gt;js/components/&lt;/code&gt; que são os arquinos js de produção.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gulp js&lt;/code&gt;: essa tarefa usa o pacote &lt;a href="https://www.npmjs.com/package/gulp-include"&gt;gulp-include&lt;/a&gt; para incluir arquivos JS como é feito em &lt;strong&gt;SASS&lt;/strong&gt; e emseguida minificar e salvar em dois aquivos &lt;code&gt;FILE.js&lt;/code&gt; e &lt;code&gt;FILE.min.js&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gulp images&lt;/code&gt;: usando &lt;a href="https://www.npmjs.com/package/gulp-imagemin"&gt;gulp-imagemin&lt;/a&gt; e &lt;a href="https://www.npmjs.com/package/imagemin-pngquant"&gt;imagemin-pngquant&lt;/a&gt; reduzimos o tamanho de todas as imagens para produção.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gulp fonts&lt;/code&gt;: apenas copiamos do diretório &lt;code&gt;/src/fonts/&lt;/code&gt; para &lt;code&gt;dist/assets/fonts/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gulp build&lt;/code&gt;: faz o &lt;strong&gt;build&lt;/strong&gt; do projeto executando as tasks &lt;code&gt;gulp html&lt;/code&gt;, &lt;code&gt;gulp sass&lt;/code&gt;, &lt;code&gt;gulp js&lt;/code&gt;, &lt;code&gt;gulp images&lt;/code&gt; e &lt;code&gt;gulp fonts&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bem, basicamente essa é a forma que eu trabalho com gulp, se você gostou da um like e um fork lá do repositório do projeto e comenta ai em baixo.&lt;/p&gt;
+
+&lt;p&gt;Abraço.&lt;/p&gt;
+
+&lt;p&gt;/end&lt;/p&gt;
+</content>
+  </entry>
+</feed>
